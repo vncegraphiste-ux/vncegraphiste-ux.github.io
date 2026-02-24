@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy - Taxi Idle Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="nav">
+      <div class="brand">Wiles</div>
+      <div class="links">
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="contact.html">Contact</a>
+        <a href="terms.html">Terms and Conditions</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <h1>Privacy Policy – Taxi Idle Game: City Builder</h1>
+    <p class="small"><strong>Effective Date:</strong> 10/01/2025</p>
+
+    <p>Your privacy is important. This Privacy Policy explains how <em>Taxi Idle Game: City Builder</em> handles information when you use our mobile game available on the Apple App Store.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>We do not collect, store, or share any personal information from users of our game.</p>
+    <ul>
+      <li>No account creation is required.</li>
+      <li>We do not track your location, device ID, or any other identifying information.</li>
+      <li>We do not use analytics tools or third-party tracking.</li>
+    </ul>
+
+    <h2>2. In-App Purchases</h2>
+    <p>The game offers optional in-app purchases (e.g., Gems, VIP content, removing ads).</p>
+    <p>All purchases are processed securely by Apple App Store. We do not have access to your payment details (such as credit card numbers or Apple ID information).</p>
+
+    <h2>3. Children’s Privacy</h2>
+    <p>Our game is intended for a general audience and does not knowingly collect personal data from children under the age of 13. If you believe we may have unintentionally collected information, please contact us and we will promptly delete it.</p>
+
+    <h2>4. Third-Party Services</h2>
+    <p>The game may rely on the Apple App Store for distribution and payments. These services are subject to Apple’s own privacy policies.</p>
+
+    <h2>5. Your Privacy Rights</h2>
+    <p>Since no data is collected, there are no data access, modification, or deletion requests needed. However, if you have any questions or concerns, you can contact us.</p>
+
+    <h2>6. Changes to This Policy</h2>
+    <p>This Privacy Policy may be updated from time to time. Any changes will be posted within the app or on the App Store page with a revised “Effective Date”.</p>
+  </main>
+</body>
+</html>
